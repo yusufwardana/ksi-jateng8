@@ -8,29 +8,29 @@
 ## ✨ List Materi
 
 - 🎥 **1. E Backdrop**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🔍 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 💬 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 📚 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🚀 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 💾 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🔌 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🎥 **8. E Backdrop**: No internet required after video generation
-- 🔧 **9. Kontemporer Maumere**: Get started with just 3 lines of code
-- 🎥 **10. Bumper Opening**: Get started with just 3 lines of code
-- 🎥 **11. Slide KSI**: Get started with just 3 lines of code
-- 🎥 **12. Download lagu Indonesia Raya**: Get started with just 3 lines of code
-- 🎥 **13. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎵 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **8. Download lagu Komang Raim Laode**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎥 **9. E Backdrop**: No internet required after video generation
+- 🎵 **10. Kontemporer Maumere**: Get started with just 3 lines of code
+- 🎥 **11. Bumper Opening**: Get started with just 3 lines of code
+- 📚 **12. Slide KSI**: Get started with just 3 lines of code
+- 🎥 **13. Download lagu Indonesia Raya**: Get started with just 3 lines of code
 - 🎥 **14. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **15. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **16. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **17. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **18. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **19. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **20. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **21. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **22. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **23. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **24. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **15. Foto dan profil Pak Wawan**: Get started with just 3 lines of code
+- 🎥 **16. Potongan Lagu Hyme btpns**: Get started with just 3 lines of code
+- 🎥 **17. Bumper**: Get started with just 3 lines of code
+- 🎥 **18. Foto dan profile BC**: Get started with just 3 lines of code
+- 🎥 **19. Video kah ksh/lapangan**: Get started with just 3 lines of code
+- 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: Get started with just 3 lines of code
+- 🎥 **21. Download Lagu Andai Nagin Mengulang**: Get started with just 3 lines of code
+- 🎥 **22. Doa**: Get started with just 3 lines of code
+- 🎥 **23. Bumper**: Get started with just 3 lines of code
+- 🎥 **24. Teaser**: Get started with just 3 lines of code
 
 ## 🎯 Use Cases
 
