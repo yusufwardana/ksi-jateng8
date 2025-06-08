@@ -5,43 +5,32 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-## 🎥 KSI 2025 Jateng 8
-
 ## ✨ List Materi
 
-- 🎥 **1. E Backdrop**: Store millions of text chunks in a single MP4 file
-- 🔍 **2. Payung Teduh Perempuan yg sedang dalam pelukan**: 
-- 💬 **Built-in Chat**: Conversational interface with context-aware responses
-- 📚 **PDF Support**: Direct import and indexing of PDF documents
-- 🚀 **Fast Retrieval**: Sub-second search across massive datasets
-- 💾 **Efficient Storage**: 10x compression compared to traditional databases
-- 🔌 **Pluggable LLMs**: Works with OpenAI, Anthropic, or local models
-- 🌐 **Offline-First**: No internet required after video generation
-- 🔧 **Simple API**: Get started with just 3 lines of code
-- 1. E Backdrop [Download](http://agsas.cc)
-2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan
-3. Download lagu Mangu
-4. Download lagu Wirang Keroncong
-5. Download lagu symponi yg indah
-6. Download lagu demi niat Baik
-7. Download lagu Aq Tak sempurna - Yura Yunita
-8. Download lagu Komang Raim Laode
-9. Ebackdrop
-10. Kontemporer Maumere 
-11. Bumper Opening 
-12. Slide Ksi
-13. Download lagu Indonesia Raya
-14. Video lukisan Pasir
-15. Foto dan profil Pak Wawan
-16. Potongan Lagu Hyme btpns
-17. Bumper
-18. Foto dan profile BC
-19. Video kah ksh,lapangan - koordinasi sm mb ulpe
-20. Kompilasi foto klurga sing biyen + foto2 dilapang - koordinsdi sm mba ulpe
-21. Download Lagu Andai Nagin Mengulang
-22. Doa 
-23. Bumper
-24. Teaser
+- 🎥 **1. E Backdrop**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🔍 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 💬 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 📚 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🚀 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 💾 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🔌 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎥 **8. E Backdrop**: No internet required after video generation
+- 🔧 **9. Kontemporer Maumere**: Get started with just 3 lines of code
+- 🎥 **10. Bumper Opening**: Get started with just 3 lines of code
+- 🎥 **11. Slide KSI**: Get started with just 3 lines of code
+- 🎥 **12. Download lagu Indonesia Raya**: Get started with just 3 lines of code
+- 🎥 **13. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **14. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **15. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **16. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **17. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **18. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **19. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **20. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **21. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **22. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **23. Video lukisan Pasir**: Get started with just 3 lines of code
+- 🎥 **24. Video lukisan Pasir**: Get started with just 3 lines of code
 
 ## 🎯 Use Cases
 
@@ -52,64 +41,9 @@
 - **🔬 Research Papers**: Quick semantic search across scientific literature
 - **📝 Personal Notes**: Transform your notes into a searchable AI assistant
 
-
-
-### Video Optimization
-```python
-# For maximum compression
-encoder.build_video(
-    "compressed.mp4",
-    "index.json",
-    fps=60,  # More frames per second
-    frame_size=256,  # Smaller frames
-    video_codec='h265',  # Better compression
-    crf=28  # Compression quality (lower = better quality)
-)
-```
-
-### Distributed Processing
-```python
-# Process large datasets in parallel
-encoder = MemvidEncoder(n_workers=8)
-encoder.add_chunks_parallel(massive_chunk_list)
-```
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**ModuleNotFoundError: No module named 'memvid'**
-```bash
-# Make sure you're using the right Python
-which python  # Should show your virtual environment path
-# If not, activate your virtual environment:
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-```bash
-# Run tests
-pytest tests/
-
-# Run with coverage
-pytest --cov=memvid tests/
-
-```
-
-## 🆚 Comparison with Traditional Solutions
-
-| Feature | Memvid | Vector DBs | Traditional DBs |
-|---------|--------|------------|-----------------|
-| Storage Efficiency | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
-| Setup Complexity | Simple | Complex | Complex |
-| Semantic Search | ✅ | ✅ | ❌ |
-| Offline Usage | ✅ | ❌ | ✅ |
-| Portability | File-based | Server-based | Server-based |
-| Scalability | Millions | Millions | Billions |
-| Cost | Free | $$$$ | $$$ |
 
 ## 📄 License
 
