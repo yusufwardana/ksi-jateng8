@@ -16,8 +16,8 @@
 - 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **8. Download lagu Komang Raim Laode**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎥 **9. E Backdrop**: No internet required after video generation
-- 🎵 **10. Kontemporer Maumere**: Get started with just 3 lines of code
-- 🎥 **11. Bumper Opening**: Get started with just 3 lines of code
+- 🎵 **10. Kontemporer Maumere**: [Download](https://drive.google.com/file/d/1mG9U5xQII_ygsUyfhJVANm2qEIZC1bFj/view?usp=sharing)
+- 🎥 **11. Bumper Opening**: [Download](https://drive.google.com/file/d/16rLyeoh4_f1FQ3eS-QtRC7aqwAzk_TqE/view?usp=drive_link) 
 - 📚 **12. Slide KSI**: Get started with just 3 lines of code
 - 🎥 **13. Download lagu Indonesia Raya | Hymne BTPNS**: [Indonesia Raya](https://drive.google.com/file/d/1ldDHVPoSxZY2sHfHitg-hi2zkqvK_KXP/view?usp=drive_link) | [Hymne](https://drive.google.com/file/d/1D8HpSv0tBojK18k8O7DkY-TIcbxj7GhP/view?usp=sharing)
 - 🎥 **14. Video lukisan Pasir**: Get started with just 3 lines of code
