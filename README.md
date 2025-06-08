@@ -9,8 +9,8 @@
 
 - 🎥 **1. E Backdrop**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1Fvr3MgZ8xmR378OYxNjCexiSqNM2PT9i/view?usp=drive_link)
+- 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1p6y0ytVNZgryNQyuAnYO1BS548Q5x-SX/view?usp=drive_link)
 - 🎵 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
@@ -28,9 +28,11 @@
 - 🎥 **19. Video kah ksh/lapangan**: Get started with just 3 lines of code
 - 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: Get started with just 3 lines of code
 - 🎥 **21. Download Lagu Andai Nagin Mengulang**: Get started with just 3 lines of code
-- 🎥 **22. Doa**: Get started with just 3 lines of code
-- 🎥 **23. Bumper**: Get started with just 3 lines of code
-- 🎥 **24. Teaser**: Get started with just 3 lines of code
+- 🎥 **22. Potongan Lagu We Area The Champion**
+- 🎥 **23. Doa**: Get started with just 3 lines of code
+- 🎥 **24.  Suara Alunan Gemeicik aer yg tenang - Pengiring Doa**: Get started with just 3 lines of code
+- 🎥 **25. Bumper**: Get started with just 3 lines of code
+- 🎥 **26. Teaser**: Get started with just 3 lines of code
 
 ## 🎯 Use Cases
 
