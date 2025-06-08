@@ -5,14 +5,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-## 🎥 Bumper Opening
+## 🎥 KSI 2025 Jateng 8
 
-https://github.com/user-attachments/assets/ec550e93-e9c4-459f-a8a1-46e122b5851e
+## ✨ List Materi
 
-## ✨ Key Features
-
-- 🎥 **Video-as-Database**: Store millions of text chunks in a single MP4 file
-- 🔍 **Semantic Search**: Find relevant content using natural language queries
+- 🎥 **1. E Backdrop**: Store millions of text chunks in a single MP4 file
+- 🔍 **2. Payung Teduh Perempuan yg sedang dalam pelukan**: 
 - 💬 **Built-in Chat**: Conversational interface with context-aware responses
 - 📚 **PDF Support**: Direct import and indexing of PDF documents
 - 🚀 **Fast Retrieval**: Sub-second search across massive datasets
@@ -20,6 +18,30 @@ https://github.com/user-attachments/assets/ec550e93-e9c4-459f-a8a1-46e122b5851e
 - 🔌 **Pluggable LLMs**: Works with OpenAI, Anthropic, or local models
 - 🌐 **Offline-First**: No internet required after video generation
 - 🔧 **Simple API**: Get started with just 3 lines of code
+- 1. E Backdrop [Download](http://agsas.cc)
+2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan
+3. Download lagu Mangu
+4. Download lagu Wirang Keroncong
+5. Download lagu symponi yg indah
+6. Download lagu demi niat Baik
+7. Download lagu Aq Tak sempurna - Yura Yunita
+8. Download lagu Komang Raim Laode
+9. Ebackdrop
+10. Kontemporer Maumere 
+11. Bumper Opening 
+12. Slide Ksi
+13. Download lagu Indonesia Raya
+14. Video lukisan Pasir
+15. Foto dan profil Pak Wawan
+16. Potongan Lagu Hyme btpns
+17. Bumper
+18. Foto dan profile BC
+19. Video kah ksh,lapangan - koordinasi sm mb ulpe
+20. Kompilasi foto klurga sing biyen + foto2 dilapang - koordinsdi sm mba ulpe
+21. Download Lagu Andai Nagin Mengulang
+22. Doa 
+23. Bumper
+24. Teaser
 
 ## 🎯 Use Cases
 
