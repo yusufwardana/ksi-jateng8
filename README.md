@@ -28,9 +28,9 @@
 - 🎥 **19. Video kah ksh/lapangan**: Get started with just 3 lines of code
 - 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: Get started with just 3 lines of code
 - 🎥 **21. Download Lagu Andai Nagin Mengulang**: Get started with just 3 lines of code
-- 🎥 **22. Potongan Lagu We Area The Champion**
-- 🎥 **23. Doa**: Get started with just 3 lines of code
-- 🎥 **24.  Suara Alunan Gemeicik aer yg tenang - Pengiring Doa**: Get started with just 3 lines of code
+- 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
+- 🎥 **23. Doa**: 
+- 🎥 **24. Suara Alunan Gemericik aer yg tenang - Pengiring Doa**: [Download](https://drive.google.com/file/d/1TiScGH-pr1jVfgdwdVVzlDN_5yELymy8/view?usp=sharing)
 - 🎥 **25. Bumper**: Get started with just 3 lines of code
 - 🎥 **26. Teaser**: Get started with just 3 lines of code
 
