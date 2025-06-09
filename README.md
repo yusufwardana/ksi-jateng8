@@ -20,9 +20,9 @@
 - 🎥 **11. Bumper Opening**: [Download](https://drive.google.com/file/d/16rLyeoh4_f1FQ3eS-QtRC7aqwAzk_TqE/view?usp=drive_link) 
 - 📚 **12. Slide KSI**: Download
 - 🎥 **13. Download lagu Indonesia Raya | Hymne BTPNS**: [Indonesia Raya](https://drive.google.com/file/d/1ldDHVPoSxZY2sHfHitg-hi2zkqvK_KXP/view?usp=drive_link) | [Hymne](https://drive.google.com/file/d/1D8HpSv0tBojK18k8O7DkY-TIcbxj7GhP/view?usp=sharing)
-- 🎥 **14. Video lukisan Pasir**: Download
+- 🎥 **14. Video lukisan Pasir**: [Download](https://btpns.sharepoint.com/:v:/s/CORPORATECOMMUNICATION/EZaXF3nmq2BOlwuV9EaknFIBYnxkW5Ea9wbpjW-zzkpwzg?e=M8tbZ1)
 - 🎥 **15. Foto dan profil Pak Wawan**: Download
-- 🎥 **16. Potongan Lagu Hyme btpns**: Download(https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
+- 🎥 **16. Potongan Lagu Hyme btpns**: [Download](https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
 - 🎥 **17. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎥 **18. Foto dan profile BC**:
 - 🎥 **19. Video kah ksh/lapangan**: 
