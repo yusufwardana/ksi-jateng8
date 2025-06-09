@@ -15,7 +15,7 @@
 - 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1AJCp_z5WCPM32I761SjDNO8OBq5k8nZu/view?usp=drive_link)
 - 🎵 **8. Download lagu Komang Raim Laode**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🎥 **9. E Backdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/17-Imqc8Be_KK29KeWpF3Z7_QSP7yeqom/view?usp=drive_link)
+- 🎥 **9. E Backdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk) | [V3](https://drive.google.com/file/d/10hKlvKDnzAbo12o57lm2-HWZaSbHyYxt/view?usp=sharing) 
 - 🎵 **10. Kontemporer Maumere**: [Download](https://drive.google.com/file/d/1mG9U5xQII_ygsUyfhJVANm2qEIZC1bFj/view?usp=sharing)
 - 🎥 **11. Bumper Opening**: [Download](https://drive.google.com/file/d/16rLyeoh4_f1FQ3eS-QtRC7aqwAzk_TqE/view?usp=drive_link) 
 - 📚 **12. Slide KSI**: Download
