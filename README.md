@@ -34,15 +34,6 @@
 - 🎥 **25. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎥 **26. Teaser**: 
 
-## 🎯 Use Cases
-
-- **📖 Digital Libraries**: Index thousands of books in a single video file
-- **🎓 Educational Content**: Create searchable video memories of course materials
-- **📰 News Archives**: Compress years of articles into manageable video databases
-- **💼 Corporate Knowledge**: Build company-wide searchable knowledge bases
-- **🔬 Research Papers**: Quick semantic search across scientific literature
-- **📝 Personal Notes**: Transform your notes into a searchable AI assistant
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -58,8 +49,6 @@ Created by [yusufwardana](https://github.com/yusufwardana)
 Built with ❤️ using:
 - [sentence-transformers](https://www.sbert.net/) - State-of-the-art embeddings for semantic search
 - [OpenCV](https://opencv.org/) - Computer vision and video processing
-- [qrcode](https://github.com/lincolnloop/python-qrcode) - QR code generation
 - [FAISS](https://github.com/facebookresearch/faiss) - Efficient similarity search
-- [PyPDF2](https://github.com/py-pdf/pypdf) - PDF text extraction
 
 Special thanks to all contributors
