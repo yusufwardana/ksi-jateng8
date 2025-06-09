@@ -7,32 +7,32 @@
 
 ## ✨ List Materi
 
-- 🎥 **1. E Backdrop**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎥 **1. E Backdrop**: [Download]
 - 🎵 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1Fvr3MgZ8xmR378OYxNjCexiSqNM2PT9i/view?usp=drive_link)
 - 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1p6y0ytVNZgryNQyuAnYO1BS548Q5x-SX/view?usp=drive_link)
-- 🎵 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **5. Download lagu symponi yg indah**:  [[Download]](https://drive.google.com/file/d/1cVH5YqInpleWq48SHpm48JPBQYc_Hi4o/view?usp=drive_link)
 - 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **8. Download lagu Komang Raim Laode**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
-- 🎥 **9. E Backdrop**: No internet required after video generation
+- 🎥 **9. E Backdrop**: [Download]
 - 🎵 **10. Kontemporer Maumere**: [Download](https://drive.google.com/file/d/1mG9U5xQII_ygsUyfhJVANm2qEIZC1bFj/view?usp=sharing)
 - 🎥 **11. Bumper Opening**: [Download](https://drive.google.com/file/d/16rLyeoh4_f1FQ3eS-QtRC7aqwAzk_TqE/view?usp=drive_link) 
-- 📚 **12. Slide KSI**: Get started with just 3 lines of code
+- 📚 **12. Slide KSI**: [Download]
 - 🎥 **13. Download lagu Indonesia Raya | Hymne BTPNS**: [Indonesia Raya](https://drive.google.com/file/d/1ldDHVPoSxZY2sHfHitg-hi2zkqvK_KXP/view?usp=drive_link) | [Hymne](https://drive.google.com/file/d/1D8HpSv0tBojK18k8O7DkY-TIcbxj7GhP/view?usp=sharing)
-- 🎥 **14. Video lukisan Pasir**: Get started with just 3 lines of code
-- 🎥 **15. Foto dan profil Pak Wawan**: Get started with just 3 lines of code
-- 🎥 **16. Potongan Lagu Hyme btpns**: Get started with just 3 lines of code
-- 🎥 **17. Bumper**: Get started with just 3 lines of code
-- 🎥 **18. Foto dan profile BC**: Get started with just 3 lines of code
-- 🎥 **19. Video kah ksh/lapangan**: Get started with just 3 lines of code
-- 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: Get started with just 3 lines of code
-- 🎥 **21. Download Lagu Andai Nagin Mengulang**: Get started with just 3 lines of code
+- 🎥 **14. Video lukisan Pasir**: [Download]
+- 🎥 **15. Foto dan profil Pak Wawan**: [Download]
+- 🎥 **16. Potongan Lagu Hyme btpns**: [[Download]](https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
+- 🎥 **17. Bumper**: [Download]
+- 🎥 **18. Foto dan profile BC**: [Download]
+- 🎥 **19. Video kah ksh/lapangan**: [Download]
+- 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: [Download]
+- 🎥 **21. Download Lagu Andai Nagin Mengulang**: [Download]
 - 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
-- 🎥 **23. Doa**: 
+- 🎥 **23. Doa**: [Download]
 - 🎥 **24. Suara Alunan Gemericik aer yg tenang - Pengiring Doa**: [Download](https://drive.google.com/file/d/1TiScGH-pr1jVfgdwdVVzlDN_5yELymy8/view?usp=sharing)
-- 🎥 **25. Bumper**: Get started with just 3 lines of code
-- 🎥 **26. Teaser**: Get started with just 3 lines of code
+- 🎥 **25. Bumper**: [Download]
+- 🎥 **26. Teaser**: [Download]
 
 ## 🎯 Use Cases
 
