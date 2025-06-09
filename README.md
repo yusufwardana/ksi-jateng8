@@ -22,17 +22,17 @@
 - 🎥 **13. Download lagu Indonesia Raya | Hymne BTPNS**: [Indonesia Raya](https://drive.google.com/file/d/1ldDHVPoSxZY2sHfHitg-hi2zkqvK_KXP/view?usp=drive_link) | [Hymne](https://drive.google.com/file/d/1D8HpSv0tBojK18k8O7DkY-TIcbxj7GhP/view?usp=sharing)
 - 🎥 **14. Video lukisan Pasir**: [Download]
 - 🎥 **15. Foto dan profil Pak Wawan**: [Download]
-- 🎥 **16. Potongan Lagu Hyme btpns**: [[Download]](https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
-- 🎥 **17. Bumper**: [Download]
-- 🎥 **18. Foto dan profile BC**: [Download]
-- 🎥 **19. Video kah ksh/lapangan**: [Download]
-- 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: [Download]
-- 🎥 **21. Download Lagu Andai Nagin Mengulang**: [Download]
+- 🎥 **16. Potongan Lagu Hyme btpns**: [Download](https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
+- 🎥 **17. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
+- 🎥 **18. Foto dan profile BC**:
+- 🎥 **19. Video kah ksh/lapangan**: 
+- 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: 
+- 🎥 **21. Download Lagu Andai Nagin Mengulang**: 
 - 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
-- 🎥 **23. Doa**: [Download]
+- 🎥 **23. Doa**: 
 - 🎥 **24. Suara Alunan Gemericik aer yg tenang - Pengiring Doa**: [Download](https://drive.google.com/file/d/1TiScGH-pr1jVfgdwdVVzlDN_5yELymy8/view?usp=sharing)
-- 🎥 **25. Bumper**: [Download]
-- 🎥 **26. Teaser**: [Download]
+- 🎥 **25. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
+- 🎥 **26. Teaser**: 
 
 ## 🎯 Use Cases
 
