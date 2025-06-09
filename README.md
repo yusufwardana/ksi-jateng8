@@ -7,7 +7,7 @@
 
 ## ✨ List Materi
 
-- 🎥 **1. EBackdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/17-Imqc8Be_KK29KeWpF3Z7_QSP7yeqom/view?usp=drive_link)
+- 🎥 **1. EBackdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎵 **2. Download lagu payung Teduh - perempuan yg sedang dlm pelukan**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1Fvr3MgZ8xmR378OYxNjCexiSqNM2PT9i/view?usp=drive_link)
 - 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1p6y0ytVNZgryNQyuAnYO1BS548Q5x-SX/view?usp=drive_link)
