@@ -12,7 +12,7 @@
 - 🎵 **3. Download lagu Mangu**:  [Download](https://drive.google.com/file/d/1Fvr3MgZ8xmR378OYxNjCexiSqNM2PT9i/view?usp=drive_link)
 - 🎵 **4. Download lagu Wirang Keroncong**:  [Download](https://drive.google.com/file/d/1p6y0ytVNZgryNQyuAnYO1BS548Q5x-SX/view?usp=drive_link)
 - 🎵 **5. Download lagu symponi yg indah**:  [Download](https://drive.google.com/file/d/1cVH5YqInpleWq48SHpm48JPBQYc_Hi4o/view?usp=drive_link)
-- 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
+- 🎵 **6. Download lagu demi niat Baik**:  [Download](https://drive.google.com/file/d/12nQGtNJEYa_6E_m7IjtsK91lV15TnWN6/view?usp=sharing)
 - 🎵 **7. Download lagu Aku Tak sempurna - Yura Yunita**: [Download](https://drive.google.com/file/d/1AJCp_z5WCPM32I761SjDNO8OBq5k8nZu/view?usp=drive_link)
 - 🎵 **8. Download lagu Komang Raim Laode**: [Download](https://drive.google.com/file/d/1wL7FAlF8ApWPrUnjhO0lGJymobOSW9QQ/view?usp=drive_link)
 - 🎥 **9. E Backdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk) | [V3](https://drive.google.com/file/d/10hKlvKDnzAbo12o57lm2-HWZaSbHyYxt/view?usp=sharing) 
