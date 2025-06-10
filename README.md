@@ -29,7 +29,7 @@
 - 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: [Download](https://drive.google.com/file/d/1HLEwjKR7KqVlQ401aJhRCJja7yQ693kD/view?usp=sharing)
 - 🎥 **21. Download Lagu Andai Nagin Mengulang**: 
 - 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
-- 🎥 **23. Doa**: 
+- 🎥 **23. Doa**: [Download](https://github.com/user-attachments/assets/0ffaf0c4-79b5-4999-b12e-5a4df563ce2a)
 - 🎥 **24. Suara Alunan Gemericik aer yg tenang - Pengiring Doa**: [Download](https://drive.google.com/file/d/1TiScGH-pr1jVfgdwdVVzlDN_5yELymy8/view?usp=sharing)
 - 🎥 **25. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎥 **26. Teaser**: 
