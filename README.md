@@ -34,8 +34,8 @@
 - 🎥 **25. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎥 **26. Teaser**: 
 
-📚 Cue Card Download [Cue Card (148 x 105 mm).pdf](https://github.com/user-attachments/files/20665698/Cue.Card.148.x.105.mm.pdf)
-📚 Photobooth Download [Potobut.pdf](https://github.com/user-attachments/files/20665702/Potobut.pdf)
+📚 **Cue Card Download** [Cue Card (148 x 105 mm).pdf](https://github.com/user-attachments/files/20665698/Cue.Card.148.x.105.mm.pdf)
+📚 **Photobooth Download** [Potobut.pdf](https://github.com/user-attachments/files/20665702/Potobut.pdf)
 
 ## 🤝 Contributing
 
