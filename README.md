@@ -25,7 +25,7 @@
 - 🎥 **16. Potongan Lagu Hyme btpns**: [Download](https://drive.google.com/file/d/13ZZRABEacmhbVbjnJyYKcZTTHQE6rIWz/view?usp=sharing)
 - 🎥 **17. Bumper**: [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk)
 - 🎥 **18. Foto dan profile BC**:
-- 🎥 **19. Video kah ksh/lapangan**: 
+- 🎥 **19. Video kah ksh/lapangan**: [Download](https://drive.google.com/drive/folders/16gpEQj13v21CDyezynt9UpmV2JEhhawy)
 - 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: [Download](https://drive.google.com/file/d/1HLEwjKR7KqVlQ401aJhRCJja7yQ693kD/view?usp=sharing)
 - 🎥 **21. Download Lagu Andai Nagin Mengulang**: 
 - 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
