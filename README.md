@@ -5,6 +5,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+## ✨ Update
+:file_folder: [Google Drive](https://drive.google.com/drive/folders/16gpEQj13v21CDyezynt9UpmV2JEhhawy?usp=sharing)
+- :white_check_mark: [Slide KSI Pak Wawan](https://docs.google.com/presentation/d/1zPZzV52MRLlI5Kg1NEuqBh2oTttAqxbr/edit?usp=drive_link&ouid=110123660097223716268&rtpof=true&sd=true)
+- :white_check_mark: [Profil Pak Wawan](https://drive.google.com/file/d/1Fs02E8Y0vlY0jloXQ8P30bVfn47ztDo8/view?usp=sharing)
+- :white_check_mark: [Profil Mba Rosi](https://drive.google.com/file/d/1WeHvuT-FRPSDQWmqLjnaGsLnSdFO9ThM/view?usp=sharing)
+- :white_check_mark: [Demi niat baik 2 menit](https://drive.google.com/file/d/1b4Rk49IxG34F16vKZsK3GsfMWvNUPITG/view?usp=sharing)
+- :white_check_mark: [Lagu Bunga Maaf](https://drive.google.com/file/d/1jyUlGsujGkxxBNryqUbykF-q8dYh3qVt/view?usp=sharing)
+
+
 ## ✨ List Materi
 
 - 🎥 **1. EBackdrop**: [V1](https://drive.google.com/file/d/174nWcOppx4HmtSkz-Y-YfEKG-dQ2sGpi/view?usp=drive_link) | [V2](https://drive.google.com/file/d/1757rho6T7BO-jzZs6pPPBhh51kSe_GuN/view?usp=drivesdk) | [V3](https://drive.google.com/file/d/10hKlvKDnzAbo12o57lm2-HWZaSbHyYxt/view?usp=sharing) 
@@ -27,7 +36,7 @@
 - 🎥 **18. Foto dan profile BC**:
 - 🎥 **19. Video kah ksh/lapangan**: [Download](https://drive.google.com/drive/folders/16gpEQj13v21CDyezynt9UpmV2JEhhawy)
 - 🎥 **20. Kompilasi foto klurga sing biyen + foto2 dilapang**: [Download](https://drive.google.com/file/d/1HLEwjKR7KqVlQ401aJhRCJja7yQ693kD/view?usp=sharing)
-- 🎥 **21. Download Lagu Andai Nagin Mengulang**: 
+- 🎥 **21. Download Lagu Lantis Bunga maaf**: [Download](https://drive.google.com/file/d/1jyUlGsujGkxxBNryqUbykF-q8dYh3qVt/view?usp=sharing) 
 - 🎥 **22. Potongan Lagu We Are The Champion**[Download](https://drive.google.com/file/d/17EXcZx-irCkbH5KdC5voxTPh-QxILcwQ/view?usp=sharing)
 - 🎥 **23. Doa**: [Download](https://github.com/user-attachments/assets/0ffaf0c4-79b5-4999-b12e-5a4df563ce2a)
 - 🎥 **24. Suara Alunan Gemericik aer yg tenang - Pengiring Doa**: [Download](https://drive.google.com/file/d/1TiScGH-pr1jVfgdwdVVzlDN_5yELymy8/view?usp=sharing)
