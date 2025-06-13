@@ -14,7 +14,7 @@
 - :white_check_mark: [Lagu Bunga Maaf](https://drive.google.com/file/d/1jyUlGsujGkxxBNryqUbykF-q8dYh3qVt/view?usp=sharing)
 - :white_check_mark: [Area Terbaik](https://drive.google.com/file/d/1qfuavAVApoq7-ogA31S9n7l6VMQ83_eP/view?usp=sharing)
 - :white_check_mark: [CO Terbaik](https://drive.google.com/file/d/1sDZ_ReTZeED6gLtOiAS12YPqNve4hSyQ/view?usp=sharing)
-- :clock130: BM Terbaik (nunggu foto)
+- :clock130: [BM Terbaik]( https://drive.google.com/file/d/1CcUVIXYrAaM9JgECE-Fr4W_nQCpO5hxz/view?usp=drivesdk)
 - :white_check_mark: [Video keluarga nosound](https://drive.google.com/file/d/1AxPrz0eBVg7WKjeERRFwo6HLtV5l9rZU/view?usp=sharing)
 
 
